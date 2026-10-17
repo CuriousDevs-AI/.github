@@ -6,7 +6,7 @@
 
 ## Applied AI, engineered for production.
 
-We build AI-native products and make existing AI systems reliable, secure, measurable and ready for the work they are meant to do.
+CuriousDevs is an AI engineering studio and research lab. We help organisations decide where AI creates value, build it into their products and operations, and run it reliably — in India or inside their own environment.
 
 <p>
   <a href="https://www.curiousdevs.com"><strong>curiousdevs.com</strong></a>
@@ -29,87 +29,107 @@ We build AI-native products and make existing AI systems reliable, secure, measu
 
 <br />
 
-## What we do
+## The CuriousDevs model
+
+One studio, with research and a Physical AI lab alongside it. Client work gives us real constraints. Research turns recurring problems into methods. The lab extends the same engineering discipline to machines that can sense, decide and act.
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong>01 · Build</strong><br /><br />
-      New AI products and capabilities, from the first decision to a working production path.
+      <strong>01 · AI Engineering</strong><br /><br />
+      <strong>Build.</strong> New AI-native products and capabilities.<br />
+      <strong>Fix.</strong> Accuracy, security, cost and latency failures.<br />
+      <strong>Scale.</strong> Evaluation, deployment, observability and ownership for production.
+      <br /><br />
+      <a href="https://www.curiousdevs.com/services">Explore services →</a>
     </td>
     <td width="33%" valign="top">
-      <strong>02 · Fix</strong><br /><br />
-      Diagnose the failures that keep AI systems from holding up: accuracy, security, cost and latency.
+      <strong>02 · Research</strong><br /><br />
+      We publish questions before answers: agent reliability, evaluation, efficient models, AI cost and shared context for systems that have to work beyond the demo.
+      <br /><br />
+      <a href="https://www.curiousdevs.com/research">Visit Research →</a>
     </td>
     <td width="33%" valign="top">
-      <strong>03 · Scale</strong><br /><br />
-      Add evaluation, observability, deployment discipline and ownership so useful AI stays useful.
+      <strong>03 · Physical AI Lab</strong><br /><br />
+      OJAS is the intelligence that decides and acts. PARTH is the body it moves in. The long-term work is AI that runs real machines, with control between model output and motion.
+      <br /><br />
+      <a href="https://www.curiousdevs.com/lab">Visit the lab →</a>
     </td>
   </tr>
 </table>
 
-## The company vision
+## Our operating standard
 
-AI is moving from isolated demos into products, operations and decisions. The hard part is no longer only generating an answer — it is knowing what the system cost, whether it can be trusted, who owns the outcome and what happens when it fails.
+AI systems need more than a capable model. They need a measurable baseline, a clear owner, a permission boundary and an operating path that a team can trust.
 
-CuriousDevs works on that layer: the engineering around the model that turns intelligence into a dependable operating capability.
+| Principle | What it means in practice |
+| --- | --- |
+| **Baseline before intervention** | Understand the current workflow and measure the starting point before changing the system. |
+| **Evidence before claims** | A demo is not a result. We label work honestly and report what the evidence says. |
+| **Control is a feature** | Permissions, policy checks, approvals and audit trails belong in the system from the beginning. |
+| **Cost is part of quality** | Accuracy, latency, security and model spend are all production concerns. |
+| **Handover is part of delivery** | The team that owns the outcome should be able to understand, operate and improve the system. |
 
-### What we believe
+## Current work
 
-- **Baseline before intervention.** Measure the current system before changing it.
-- **Evidence before claims.** A demo is not a deployment; progress is what survives real usage.
-- **Control is a feature.** Permissions, policy, approvals and audit trails belong in the product.
-- **Cost is part of quality.** A useful system must be accurate, fast and economically clear.
-- **Handover is part of delivery.** The team that owns the outcome should be able to run the system.
-
-## Current product
+### TokenFin · LLM Cost Intelligence
 
 <table>
   <tr>
-    <td width="18%" valign="top" align="center">
+    <td width="16%" valign="top" align="center">
       <a href="https://tokenfin.curiousdevs.com">
-        <img src="https://tokenfin.curiousdevs.com/favicon.svg" alt="TokenFin logo" width="88" />
+        <img src="https://tokenfin.curiousdevs.com/favicon.svg" alt="TokenFin logo" width="84" />
       </a>
     </td>
-    <td width="82%" valign="top">
-      <h3>TokenFin — LLM Cost Intelligence</h3>
-      <p>Token-level cost attribution for every LLM call, with real-time spend visibility, model analytics and budget guardrails for AI teams that want to scale without surprises.</p>
-      <p><strong>Track the real economics of AI.</strong> Attribute usage to the exact feature, user or team. Compare models on cost, latency and quality. Set hard or soft limits before a cost spike becomes a month-end surprise.</p>
-      <p>
-        <a href="https://tokenfin.curiousdevs.com"><strong>Visit TokenFin →</strong></a>
-        &nbsp;·&nbsp;
-        <a href="https://tokenfin.curiousdevs.com"><img src="https://img.shields.io/badge/PRIVATE%20BETA-APPLY%20FOR%20ACCESS-14b8a6?style=flat-square" alt="Apply for TokenFin private beta" /></a>
-      </p>
+    <td width="84%" valign="top">
+      <strong>Production · In development</strong><br /><br />
+      Token-level cost attribution for every LLM call, with real-time spend visibility, model analytics and budget guardrails for AI teams that want to scale without surprises.
+      <br /><br />
+      TokenFin maps usage to the exact feature, user or team that generated it. Compare providers on cost, latency and quality, set hard or soft limits, and make AI spend explainable without rebuilding the numbers in spreadsheets.
+      <br /><br />
+      <a href="https://tokenfin.curiousdevs.com"><strong>Explore TokenFin →</strong></a>
+      &nbsp;·&nbsp;
+      <a href="https://tokenfin.curiousdevs.com"><img src="https://img.shields.io/badge/PRIVATE%20BETA-APPLY%20FOR%20ACCESS-14b8a6?style=flat-square" alt="Apply for TokenFin private beta" /></a>
     </td>
   </tr>
 </table>
 
-### TokenFin includes
+### OJAS · Physical AI Runtime
 
-| Capability | Outcome |
-| --- | --- |
-| **Token-level attribution** | See the exact feature, user and team behind every LLM call. |
-| **Real-time dashboards** | Monitor spend and burn rate before surprises happen. |
-| **Model comparison** | Compare providers on cost, latency and quality against real workloads. |
-| **Budget guardrails** | Set hard and soft limits per team or feature. |
-| **Chargeback reporting** | Explain AI spend and ROI without rebuilding the numbers in spreadsheets. |
-| **Multi-provider support** | Work across OpenAI, Anthropic, Bedrock, Mistral, Groq and modern AI tooling. |
+<strong>Research · Early engineering</strong>
 
-<div align="center">
+OJAS is a general-purpose, model-agnostic execution runtime for Physical AI — the layer between a model and a machine. The model proposes; explicit rules, permissions and constraints decide whether the proposal may execute.
 
-<a href="https://tokenfin.curiousdevs.com"><strong>Explore TokenFin →</strong></a>
+- Perception, world state, reasoning, planning and action through one contract
+- Policy checks between every proposal and every actuator
+- Designed for existing edge compute: Jetson-class, Raspberry Pi and x86 GPU systems
+- Planned adapters for ROS 2, simulation and other robotics backends
 
-</div>
+<a href="https://www.curiousdevs.com/lab"><strong>Explore OJAS and PARTH →</strong></a>
 
-## How we work
+## The research loop
 
-We stay close to the system from the first question to the operating path. That means clear scope, weekly working demonstrations, measurable acceptance criteria and a handover your team can own.
+<table>
+  <tr>
+    <td width="33%" valign="top"><strong>Question</strong><br /><br />A failure, cost spike or unanswered problem in real work becomes a research question.</td>
+    <td width="33%" valign="top"><strong>Experiment</strong><br /><br />We reproduce it, measure it and test fixes on our own systems before they reach a client.</td>
+    <td width="33%" valign="top"><strong>Method</strong><br /><br />What holds up becomes a pattern, a tool or a check in how we build. What fails is documented.</td>
+  </tr>
+</table>
 
-We are deliberately small, direct and technical. The people who shape the problem stay close to the people building the answer.
+## How we work with teams
+
+We stay close to the system from the first decision to the operating path: clear scope, weekly working demonstrations, written acceptance criteria and a handover your team can own.
+
+- **Project** — a defined outcome, fixed scope and written acceptance criteria.
+- **Dedicated engineers** — AI, backend and product engineers embedded in your roadmap.
+- **Managed AI** — hosting, monitoring, evaluation and improvement with a named engineer.
+
+We work with organisations in India and internationally, including systems that need to run inside a private network or controlled cloud environment.
 
 ## Work with us
 
-Bring us an AI idea, a system that is not holding up, or a cost and reliability problem that needs an owner.
+Bring us an AI idea, a system that is not holding up, or a reliability and cost problem that needs an owner.
 
 <p align="center">
   <a href="https://www.curiousdevs.com/contact"><strong>Start an AI project →</strong></a>

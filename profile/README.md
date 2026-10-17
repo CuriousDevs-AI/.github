@@ -25,6 +25,7 @@ We build the products, runtimes and operating systems that help AI move from a p
 | Focus | What it means | Explore |
 | --- | --- | --- |
 | **AI-native products** | Connected systems that bring conversations, knowledge, automation and action into one operating loop. | [Janus →](https://github.com/CuriousDevs-AI/janus) |
+| **AI cost engineering** | Attribution, budgets and usage intelligence for teams running language models in production. | [TokenFin →](https://www.curiousdevs.com/work#tokenfin) |
 | **Agent infrastructure** | Permissioned memory, provenance, audit trails and human control for teams working with coding agents. | [Remora →](https://github.com/CuriousDevs-AI/remora) |
 | **Physical AI** | A model-agnostic runtime that turns perception and model output into controlled action on real machines. | [OJAS →](https://github.com/CuriousDevs-AI/Ojas) |
 | **AI operations** | A self-hosted operating console for coordinating AI teammates, tasks, approvals and reporting. | [JAMES Monitoring →](https://github.com/CuriousDevs-AI/james-monitoring) |
@@ -70,6 +71,16 @@ That is the layer we work on:
       A self-hosted console where AI teammates work in shared rooms, own tasks in git, ask before risky actions and report back.
       <br /><br />
       <a href="https://github.com/CuriousDevs-AI/james-monitoring">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <strong>TokenFin</strong> <sup>IN DEVELOPMENT</sup><br />
+      Cost attribution and control for organisations running large language models in production. TokenFin maps every model call to the team, feature or customer that made it, so AI spend can be budgeted, explained and reduced with the same discipline as cloud infrastructure.
+      <br /><br />
+      <strong>Capabilities:</strong> per-call attribution · budgets and alerts · model and caching analysis · application and MCP integrations
+      <br /><br />
+      <a href="https://www.curiousdevs.com/work#tokenfin">Read about TokenFin →</a>
     </td>
   </tr>
 </table>

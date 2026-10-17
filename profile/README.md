@@ -1,100 +1,120 @@
 <div align="center">
 
-<img src="https://www.curiousdevs.com/brand/curiousdevs-mark.png" alt="CuriousDevs mark" width="88" />
+<img src="https://www.curiousdevs.com/brand/curiousdevs-mark.png" alt="CuriousDevs mark" width="92" />
 
 # CuriousDevs
 
-### Secure infrastructure for autonomous AI systems.
+## Applied AI, engineered for production.
 
-We build the products, runtimes and operating systems that help AI move from a promising demo to a dependable part of real work.
+We build AI-native products and make existing AI systems reliable, secure, measurable and ready for the work they are meant to do.
 
 <p>
   <a href="https://www.curiousdevs.com"><strong>curiousdevs.com</strong></a>
-  ·
-  <a href="https://github.com/CuriousDevs-AI">Repositories</a>
-  ·
-  <a href="mailto:hello@curiousdevs.com">Get in touch</a>
+  &nbsp;·&nbsp;
+  <a href="https://tokenfin.curiousdevs.com"><strong>TokenFin</strong></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:hello@curiousdevs.com">hello@curiousdevs.com</a>
 </p>
+
+<br />
+
+<a href="https://www.curiousdevs.com">
+  <img src="https://img.shields.io/badge/AI%20ENGINEERING-FOR%20PRODUCTION-111827?style=for-the-badge" alt="AI engineering for production" />
+</a>
+<a href="https://tokenfin.curiousdevs.com">
+  <img src="https://img.shields.io/badge/TOKENFIN-PRIVATE%20BETA-14b8a6?style=for-the-badge" alt="TokenFin private beta" />
+</a>
 
 </div>
 
 <br />
 
-## What we build
-
-| Focus | What it means | Explore |
-| --- | --- | --- |
-| **AI-native products** | Connected systems that bring conversations, knowledge, automation and action into one operating loop. | [Janus →](https://github.com/CuriousDevs-AI/janus) |
-| **AI cost engineering** | Attribution, budgets and usage intelligence for teams running language models in production. | [TokenFin →](https://www.curiousdevs.com/work#tokenfin) |
-| **Agent infrastructure** | Permissioned memory, provenance, audit trails and human control for teams working with coding agents. | [Remora →](https://github.com/CuriousDevs-AI/remora) |
-| **Physical AI** | A model-agnostic runtime that turns perception and model output into controlled action on real machines. | [OJAS →](https://github.com/CuriousDevs-AI/Ojas) |
-| **AI operations** | A self-hosted operating console for coordinating AI teammates, tasks, approvals and reporting. | [JAMES Monitoring →](https://github.com/CuriousDevs-AI/james-monitoring) |
-
-## Our point of view
-
-AI systems need more than a capable model. They need a clear owner, a measurable baseline, a permission boundary and an operating path that people can understand.
-
-That is the layer we work on:
-
-- **Secure by design** — permissions, policy gates and auditability are part of the system, not a later add-on.
-- **Human-directed** — agents can propose and execute within explicit boundaries; people retain meaningful control.
-- **Model-agnostic** — infrastructure should not become a forced dependency on one provider or one model.
-- **Evidence-led** — we measure what works, label what is in development and do not confuse a demo with a deployment.
-- **Self-hostable where it matters** — sensitive systems should be able to run in the environment their owners trust.
-
-## Current work
+## What we do
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <strong>Janus</strong><br />
-      An AI-native customer operations platform connecting CRM, communication, support, memory and automation into one customer lifecycle.
-      <br /><br />
-      <a href="https://github.com/CuriousDevs-AI/janus">View repository →</a>
+    <td width="33%" valign="top">
+      <strong>01 · Build</strong><br /><br />
+      New AI products and capabilities, from the first decision to a working production path.
     </td>
-    <td width="50%" valign="top">
-      <strong>OJAS</strong><br />
-      CuriousDevs' intelligence system for Edge AI and Physical AI. The model proposes; OJAS decides what is allowed and executes it.
-      <br /><br />
-      <a href="https://github.com/CuriousDevs-AI/Ojas">View repository →</a>
+    <td width="33%" valign="top">
+      <strong>02 · Fix</strong><br /><br />
+      Diagnose the failures that keep AI systems from holding up: accuracy, security, cost and latency.
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Remora</strong><br />
-      A shared, permissioned project ledger for teams working with several coding agents, with provenance, authorization and an audit trail.
-      <br /><br />
-      <a href="https://github.com/CuriousDevs-AI/remora">View repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>JAMES Monitoring</strong><br />
-      A self-hosted console where AI teammates work in shared rooms, own tasks in git, ask before risky actions and report back.
-      <br /><br />
-      <a href="https://github.com/CuriousDevs-AI/james-monitoring">View repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <strong>TokenFin</strong> <sup>IN DEVELOPMENT</sup><br />
-      Cost attribution and control for organisations running large language models in production. TokenFin maps every model call to the team, feature or customer that made it, so AI spend can be budgeted, explained and reduced with the same discipline as cloud infrastructure.
-      <br /><br />
-      <strong>Capabilities:</strong> per-call attribution · budgets and alerts · model and caching analysis · application and MCP integrations
-      <br /><br />
-      <a href="https://www.curiousdevs.com/work#tokenfin">Read about TokenFin →</a>
+    <td width="33%" valign="top">
+      <strong>03 · Scale</strong><br /><br />
+      Add evaluation, observability, deployment discipline and ownership so useful AI stays useful.
     </td>
   </tr>
 </table>
 
+## The company vision
+
+AI is moving from isolated demos into products, operations and decisions. The hard part is no longer only generating an answer — it is knowing what the system cost, whether it can be trusted, who owns the outcome and what happens when it fails.
+
+CuriousDevs works on that layer: the engineering around the model that turns intelligence into a dependable operating capability.
+
+### What we believe
+
+- **Baseline before intervention.** Measure the current system before changing it.
+- **Evidence before claims.** A demo is not a deployment; progress is what survives real usage.
+- **Control is a feature.** Permissions, policy, approvals and audit trails belong in the product.
+- **Cost is part of quality.** A useful system must be accurate, fast and economically clear.
+- **Handover is part of delivery.** The team that owns the outcome should be able to run the system.
+
+## Current product
+
+<table>
+  <tr>
+    <td width="18%" valign="top" align="center">
+      <a href="https://tokenfin.curiousdevs.com">
+        <img src="https://tokenfin.curiousdevs.com/favicon.svg" alt="TokenFin logo" width="88" />
+      </a>
+    </td>
+    <td width="82%" valign="top">
+      <h3>TokenFin — LLM Cost Intelligence</h3>
+      <p>Token-level cost attribution for every LLM call, with real-time spend visibility, model analytics and budget guardrails for AI teams that want to scale without surprises.</p>
+      <p><strong>Track the real economics of AI.</strong> Attribute usage to the exact feature, user or team. Compare models on cost, latency and quality. Set hard or soft limits before a cost spike becomes a month-end surprise.</p>
+      <p>
+        <a href="https://tokenfin.curiousdevs.com"><strong>Visit TokenFin →</strong></a>
+        &nbsp;·&nbsp;
+        <a href="https://tokenfin.curiousdevs.com"><img src="https://img.shields.io/badge/PRIVATE%20BETA-APPLY%20FOR%20ACCESS-14b8a6?style=flat-square" alt="Apply for TokenFin private beta" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+### TokenFin includes
+
+| Capability | Outcome |
+| --- | --- |
+| **Token-level attribution** | See the exact feature, user and team behind every LLM call. |
+| **Real-time dashboards** | Monitor spend and burn rate before surprises happen. |
+| **Model comparison** | Compare providers on cost, latency and quality against real workloads. |
+| **Budget guardrails** | Set hard and soft limits per team or feature. |
+| **Chargeback reporting** | Explain AI spend and ROI without rebuilding the numbers in spreadsheets. |
+| **Multi-provider support** | Work across OpenAI, Anthropic, Bedrock, Mistral, Groq and modern AI tooling. |
+
+<div align="center">
+
+<a href="https://tokenfin.curiousdevs.com"><strong>Explore TokenFin →</strong></a>
+
+</div>
+
+## How we work
+
+We stay close to the system from the first question to the operating path. That means clear scope, weekly working demonstrations, measurable acceptance criteria and a handover your team can own.
+
+We are deliberately small, direct and technical. The people who shape the problem stay close to the people building the answer.
+
 ## Work with us
 
-We are interested in hard problems at the intersection of AI, software systems and operations — especially where reliability, security or control matters as much as intelligence.
+Bring us an AI idea, a system that is not holding up, or a cost and reliability problem that needs an owner.
 
-- **Building a new AI product?** Start with the system, not just the model.
-- **Running an AI system that is not holding up?** Find the failure, measure the baseline and fix the highest-value constraint.
-- **Working on research or infrastructure?** Open an issue, start a discussion or reach out directly.
-
-<p>
-  <a href="https://www.curiousdevs.com/contact"><strong>Start a conversation →</strong></a>
+<p align="center">
+  <a href="https://www.curiousdevs.com/contact"><strong>Start an AI project →</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://tokenfin.curiousdevs.com"><strong>Try TokenFin →</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/CuriousDevs-AI">Explore the organisation</a>
 </p>
